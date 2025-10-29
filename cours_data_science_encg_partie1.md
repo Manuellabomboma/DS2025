@@ -1,3 +1,4 @@
+<img src="collection.jpeg" style="height:464px;margin-right:432px"/>
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 # BOMBOMA Namangue Manuella
