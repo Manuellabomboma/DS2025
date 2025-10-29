@@ -1,5 +1,6 @@
 
 <img src="WhatsApp Image 2025-10-15 à 17.53.36_2c266f7b.jpg" style="height:464px;margin-right:432px"/>
+<img src="<img src="WhatsApp Image 2025-10-15 à 17.53.36_2c266f7b.jpg" style="height:464px;margin-right:432px"/>" style="height:464px;margin-right:432px"/>
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 # BOMBOMA Namangue Manuella
