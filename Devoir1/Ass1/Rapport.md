@@ -5,7 +5,18 @@ Titre et métadonnées
 - Titre: Rapport statistique détaillé: Predict Students' Dropout and Academic Success
 - Auteur: BOMBOMA Namangue Manuella
 - Date: 12/11/2025
-- Format cible: Markdown (export possible en HTML/PDF/Word via Pandoc ou Quarto)
+
+Destinataire du dataset: Le jeu de données est destiné à la recherche et à la pratique en apprentissage automatique et en sciences de l’éducation, pour modéliser et prédire le risque de décrochage et le succès académique des étudiants dans un cadre universitaire. Cela inclut des chercheurs et des praticiens souhaitant développer ou évaluer des modèles prédictifs et des interventions éducatives.
+
+Date de publication: Le dataset « Predict Students' Dropout and Academic Success » a été publié en 2021 dans le UCI Machine Learning Repository, avec une date de publication précise indiquée comme 2021-12-12 sur certaines pages de présentation.
+
+​Pays impliqué/lieu de création: Le travail et le dépôt proviennent d’instances associées à l’Instituto Superior Técnico (ouligue académique portugaise) et participants de équipes de recherche portugaises (Realinho, Martins, Machado, Baptista étant des chercheurs connus dans des contextes portugais). Le dataset est issu d’un contexte universitaire portugais et décrit des facteurs démographiques, socio-économiques et académiques propres à une cohorte étudiante typique des établissements européens, en particulier au Portugal.
+
+    ​Détails contextuels utiles
+
+    Le dataset comprend des informations connues au moment de l’inscription de l’étudiant (parcours académique, démographie, facteurs socio-économiques) et vise à prédire des catégories liées à l’abandon ou au succès académique.
+
+​La référence exacte est: Valentim Realinho, Mónica V. Martins, Jorge Machado, Luís M. T. Baptista. Predict Students' Dropout and Academic Success. UCI Machine Learning Repository, 2021. DOI associé: 10.24432/C5MC89.
 
 Introduction
 - Objet: analyser les facteurs associés au décrochage et au succès académique des étudiants à partir du dataset « Predict Students' Dropout and Academic Success » du UCI Machine Learning Repository.
