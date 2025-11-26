@@ -1,41 +1,41 @@
-# Étude sur l’impact des facteurs sur la réussite scolaire
+Étude sur l’impact des facteurs sur la réussite scolaire
 
 Fait par BOMBOMA Namangue Manuella
 
-## Introduction
+Introduction
 Cette étude vise à analyser les différents facteurs influençant la réussite scolaire des étudiants. En combinant des méthodes statistiques et des représentations graphiques, l’objectif est de comprendre quelles variables ont un effet significatif sur la performance académique, afin d’orienter les politiques éducatives et les pratiques pédagogiques.
 
-## Présentation du jeu de données
+Présentation du jeu de données
 Le jeu de données contient divers paramètres recueillis auprès des élèves, notamment des variables démographiques (âge, sexe), familiales (niveau d’éducation des parents), comportementales (temps d’étude, motivation, absentéisme) et académiques (notes finales). Ces variables sont utilisées pour étudier leur lien avec la réussite scolaire, évaluée par la note finale.
 
-## Analyse et visualisation des données
+Analyse et visualisation des données
 
-### Régression linéaire simple : Temps d’étude vs Note finale
+Régression linéaire simple : Temps d’étude vs Note finale
 Un graphique de régression linéaire illustre la relation entre le temps consacré aux études hebdomadaires et la note finale obtenue par les élèves.
 
 - **Interprétation** : On observe généralement une pente positive, indiquant qu’un temps d’étude plus élevé tend à améliorer les résultats scolaires. Cela souligne l’importance de consacrer un temps suffisant aux révisions.
 
-### Comparaison des notes selon le sexe
+Comparaison des notes selon le sexe
 Un boxplot permet de visualiser la distribution des notes finales pour les filles et les garçons.
 
 - **Interprétation** : Ce graphique met en évidence les différences potentielles entre les sexes en termes de réussite, par exemple des variations de médiane ou de dispersion qui peuvent orienter les interventions différenciées.
 
-### Matrice de corrélation entre variables clés
+ Matrice de corrélation entre variables clés
 Une heatmap représente les corrélations entre variables numériques telles que le temps d’étude, la motivation, l’absentéisme et la note finale.
 
 - **Interprétation** : Cette matrice révèle les relations fortes ou faibles entre ces facteurs, confirmant souvent que la motivation et le temps d’étude sont positivement corrélés à la réussite, tandis que l’absentéisme est négativement lié.
 
-### Régression multiple
+Régression multiple
 L’analyse par régression linéaire multiple quantifie l’influence simultanée de plusieurs facteurs (temps d’étude, motivation, absentéisme) sur la note finale.
 
 - **Interprétation** : Les coefficients obtenus montrent l’effet net de chaque variable, ajusté aux autres. Par exemple, une forte motivation pourrait compenser partiellement un temps d’étude limité, tandis qu’un haut taux d’absentéisme pénalise la performance.
 
-### Distribution des notes finales
+Distribution des notes finales
 Un histogramme avec courbe de densité montre la répartition générale des notes dans l’échantillon.
 
 - **Interprétation** : La forme de cette distribution informe sur la concentration des résultats scolaires, révélant potentiellement des biais ou des phénomènes spécifiques comme une majorité d’élèves performants ou des disparités marquées.
 
-## Code Python utilisé (extrait)
+Code Python utilisé (extrait)
 
 import pandas as pd
 import seaborn as sns
@@ -68,7 +68,7 @@ plt.title("Distribution des notes finales")
 plt.show()
 
 
-## Conclusion
+Conclusion
 Cette étude démontre que plusieurs facteurs personnels, comportementaux et contextuels influencent la réussite scolaire. Le temps d’étude, la motivation et l’assiduité apparaissent comme des leviers majeurs. La modélisation statistique fournit des résultats quantitatifs précis, tandis que les représentations graphiques apportent une compréhension visuelle utile pour les décideurs éducatifs.
 
 ---
