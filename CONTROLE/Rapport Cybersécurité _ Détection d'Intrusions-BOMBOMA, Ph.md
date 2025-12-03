@@ -4,11 +4,11 @@
 
 **Auteur :** BOMBOMA Namangue Manuella
 **Date :** 03 Décembre 2025
-**Dataset :** Network Intrusion Detection (NSL-KDD) - Kaggle[^11_11]
+**Dataset :** Network Intrusion Detection (NSL-KDD) - Kaggle(En rapport avec la Cybersécurité)
 
 ## Introduction
 
-La détection d'intrusions réseau constitue un enjeu critique de la cybersécurité face à la multiplication des attaques sophistiquées. Ce rapport analyse le dataset "Network Intrusion Detection" (sampadab17) qui simule un environnement militaire avec trafic normal et attaques variées (DoS, Probe, R2L, U2R). L'objectif est d'explorer les données, identifier les patterns discriminants et préparer un pipeline ML robuste pour la classification des intrusions.[^11_12]
+La détection d'intrusions réseau constitue un enjeu critique de la cybersécurité face à la multiplication des attaques sophistiquées. Ce rapport analyse le dataset "Network Intrusion Detection" (sampadab17) qui simule un environnement militaire avec trafic normal et attaques variées (DoS, Probe, R2L, U2R). L'objectif est d'explorer les données, identifier les patterns discriminants et préparer un pipeline ML robuste pour la classification des intrusions.
 
 ## Description du Dataset
 
@@ -29,7 +29,7 @@ Le dataset NSL-KDD contient **125 973 connexions réseau** décrites par **41 ca
 - DoS : 45,927 (36.5%)
 - Probe : 4,107 (3.3%)
 - R2L : 1,452 (1.2%)
-- U2R : 67 (0.05%)[^11_12]
+- U2R : 67 (0.05%)
 
 
 ## Études et Méthodologie
