@@ -127,7 +127,7 @@ En regardant une Heatmap, on verrait que `Radius` (Rayon), `Perimeter` (Périmè
 
 ---
 
-## 5. Analyse Approfondie : Méthodologie (Split)
+## 5. Analyse Approfondie : Méthodologie (Split=Découpage des données)
 
 ### Le Concept : La Garantie de Généralisation
 Le but du Machine Learning n'est pas de *mémoriser* le passé, mais de *généraliser* vers le futur.
